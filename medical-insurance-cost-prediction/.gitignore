@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.streamlit/secrets.toml
+data/*.csv
+models/*.joblib
+reports/*.json
+reports/*.csv
+assets/figures/*.png
+.ipynb_checkpoints/
